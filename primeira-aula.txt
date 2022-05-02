@@ -1,1 +1,3 @@
-Hoje estou estudando com Dev Aprender, sobre Git e GitHub
+Hoje estou estudando com Dev Aprender, sobre Git e GitHub.
+
+Fiz alguns ajustes nesta pagina.
