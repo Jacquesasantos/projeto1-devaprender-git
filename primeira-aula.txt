@@ -1,3 +1,5 @@
 Hoje estou estudando com Dev Aprender, sobre Git e GitHub.
 
 Fiz alguns ajustes nesta pagina.
+
+Meu nome é Jacques Araujo
